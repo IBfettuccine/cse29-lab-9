@@ -1,6 +1,6 @@
 # Website for CSE 29
 
-[Link](https://github.com/IBfettuccine/cse29-lab-9/file2.html)
+[Link](https://ibfettuccine.github.io/cse29-lab-9/file2.html)
 
 test test test
 
